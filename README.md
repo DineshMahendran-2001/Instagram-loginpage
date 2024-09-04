@@ -15,7 +15,7 @@ This project is a static clone of the Instagram login page, created using HTML a
 # Note
 - This project is a static clone and does not include any backend functionality. Users cannot log in or interact with the page beyond the visual representation.
 - Alternatively, you can view the live demo of the project hosted on GitHub Pages at: 
-[https://your-username.github.io/instagram-login-page/](https://your-username.github.io/instagram-login-page/)
+[https://github.com/DineshMahendran-2001/Instagram-loginpage.git](https://github.com/DineshMahendran-2001/Instagram-loginpage.git)
 
 
 # Acknowledgments
