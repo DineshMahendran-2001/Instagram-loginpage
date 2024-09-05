@@ -5,7 +5,6 @@ This project is a static clone of the Instagram login page, created using HTML a
 
 # Features
 - Static Design: The project replicates the look and feel of the Instagram login page.
-- Responsive Layout: The design adapts to different screen sizes, ensuring a seamless experience on both desktop and mobile devices.
 - User Interface Elements: Includes input fields for username and password, along with the Instagram logo and login button.
 
 # Technologies Used
@@ -16,7 +15,6 @@ This project is a static clone of the Instagram login page, created using HTML a
 - This project is a static clone and does not include any backend functionality. Users cannot log in or interact with the page beyond the visual representation.
 - Alternatively, you can view the live demo of the project hosted on GitHub Pages at: 
 [https://github.com/DineshMahendran-2001/Instagram-loginpage.git](https://github.com/DineshMahendran-2001/Instagram-loginpage.git)
-
 
 # Acknowledgments
 - The design and layout of this project are inspired by the official Instagram login page.
