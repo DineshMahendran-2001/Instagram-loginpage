@@ -1,4 +1,4 @@
-# Instagram Login Page Clone
+# Instagram Login Page
 
 # Project Description
 This project is a static clone of the Instagram login page, created using HTML and CSS. The aim of this project is to replicate the visual design and layout of the official Instagram login page. This clone showcases my skills in front-end development and responsive design.
