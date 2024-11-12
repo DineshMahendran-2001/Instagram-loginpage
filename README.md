@@ -1,7 +1,7 @@
 # Instagram Login Page
 
 # Project Description
-This project is a static clone of the Instagram login page, created using HTML and CSS. The aim of this project is to replicate the visual design and layout of the official Instagram login page. This clone showcases my skills in front-end development and responsive design.
+This project is a static copy of the Instagram login page, created using HTML and CSS. The aim of this project is to replicate the visual design and layout of the official Instagram login page. This copy showcases my skills in front-end development and responsive design.
 
 # Features
 - Static Design: The project replicates the look and feel of the Instagram login page.
@@ -12,7 +12,7 @@ This project is a static clone of the Instagram login page, created using HTML a
 - CSS
 
 # Note
-- This project is a static clone and does not include any backend functionality. Users cannot log in or interact with the page beyond the visual representation.
+- This project is a static copy and does not include any backend functionality. Users cannot log in or interact with the page beyond the visual representation.
 - Alternatively, you can view the live demo of the project hosted on GitHub Pages at: 
 [https://github.com/DineshMahendran-2001/Instagram-loginpage.git](https://github.com/DineshMahendran-2001/Instagram-loginpage.git)
 
